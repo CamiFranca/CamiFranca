@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa8072&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f56B92&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fa8072&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Camilla+França;I'm+34+years+old;I+from+Brazil,+PE;I+study+full+stack+programming;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f56B92&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Camilla+França;I'm+34+years+old;I+from+Brazil,+PE;I+study+full+stack+programming;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
   ##
 
@@ -50,4 +50,4 @@
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f56B92&height=120&section=footer"/>****
