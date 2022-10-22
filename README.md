@@ -34,7 +34,7 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=CamiFranca&theme=dracula_border=true&area=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MthAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CamiFranca&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
   
@@ -43,4 +43,4 @@
 
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f56B92&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f56B92&height=120&section=footer"/>
